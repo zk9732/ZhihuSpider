@@ -3,9 +3,9 @@ make_as_book = True
 answer_id = ''  # v
 column_id = ''  # v
 article_id = ''  # v
-question_id = '318163620'  # v
+question_id = ''  # v
 topic_id = ''  # v
-user_id_for_answers = ''  # v
+user_id_for_answers = 'mao-kiss-66'  # v
 user_id_for_articles = ''  # v
 collection_id = ''
 
